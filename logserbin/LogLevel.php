@@ -1,6 +1,6 @@
 <?php
 
-namespace logserbin;
+namespace antons-route;
 
 class LogLevel
 {

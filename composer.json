@@ -1,17 +1,17 @@
 {
-  "name": "serbin/serbin_logger",
+  "name": "antons/serbin_logger",
   "description": "serbin_description",
   "type": "library",
   "minimum-stability": "dev",
   "authors": [
     {
-      "name": "AntonS",
+      "name": "antons",
       "email": "antons.zn@gmail.com"
     }
   ],
   "autoload": {
     "psr-4": {
-      "logserbin\\": "logserbin/"
+      "antons-route\\": "logserbin/"
     }
   },
   "require": {
