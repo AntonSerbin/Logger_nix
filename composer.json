@@ -1,6 +1,6 @@
 {
-  "name": "anton-s4/logger_antons",
-  "description": "logger_antons",
+  "name": "SerbinLogger",
+  "description": "SerbinLoggerDescription",
   "type": "library",
   "minimum-stability": "dev",
   "authors": [
@@ -11,7 +11,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "anton-s4/logger_antons\\": "logger_antons/"
+      "loggerSerbin\\": "logSerbin/"
     }
   },
   "require": {
