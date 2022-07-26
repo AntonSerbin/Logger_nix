@@ -1,6 +1,6 @@
 <?php
 
-namespace logger_antons;
+namespace logserbin;
 
 class Logger implements LoggerInterface
 {

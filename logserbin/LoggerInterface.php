@@ -1,6 +1,6 @@
 <?php
 
-namespace logger_antons;
+namespace logserbin;
 
 /**
  * Describes a Logger instance.
