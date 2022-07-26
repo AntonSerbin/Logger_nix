@@ -1,6 +1,6 @@
 {
   "name": "serbin-logger",
-  "description": "serbinloggerdescription",
+  "description": "serbin_description",
   "type": "library",
   "minimum-stability": "dev",
   "authors": [
