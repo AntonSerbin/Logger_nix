@@ -1,5 +1,5 @@
 {
-  "name": "SerbinLogger",
+  "name": "serbinlogger",
   "description": "SerbinLoggerDescription",
   "type": "library",
   "minimum-stability": "dev",
