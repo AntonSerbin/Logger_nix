@@ -11,7 +11,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "anton-s/logger\\": "logger_antons/"
+      "anton-s3/logger_antons\\": "logger_antons/"
     }
   },
   "require": {
