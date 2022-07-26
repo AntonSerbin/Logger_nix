@@ -1,0 +1,19 @@
+{
+  "name": "AntonS/logger",
+  "description": "Logger_nix",
+  "type": "library",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "AntonS",
+      "email": "antons.zn@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "AntonSLogger\\": "Logger/"
+    }
+  },
+  "require": {
+  }
+}
