@@ -1,6 +1,6 @@
 {
   "name": "serbinlogger",
-  "description": "SerbinLoggerDescription",
+  "description": "serbinloggerdescription",
   "type": "library",
   "minimum-stability": "dev",
   "authors": [
@@ -11,7 +11,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "loggerSerbin\\": "logSerbin/"
+      "loggerserbin\\": "logserbin/"
     }
   },
   "require": {
