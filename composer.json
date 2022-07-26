@@ -1,11 +1,11 @@
 {
-  "name": "antons/serbin_logger",
+  "name": "antonserbin/serbin_logger",
   "description": "serbin_description",
   "type": "library",
   "minimum-stability": "dev",
   "authors": [
     {
-      "name": "antons",
+      "name": "antonserbin",
       "email": "antons.zn@gmail.com"
     }
   ],
