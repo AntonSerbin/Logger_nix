@@ -1,5 +1,5 @@
 {
-  "name": "AntonS/logger",
+  "name": "anton-s/logger",
   "description": "Logger_nix",
   "type": "library",
   "minimum-stability": "dev",
@@ -11,7 +11,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "AntonSLogger\\": "Logger/"
+      "anton-s/logger\\": "Logger/"
     }
   },
   "require": {
