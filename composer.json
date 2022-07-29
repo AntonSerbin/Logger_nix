@@ -11,9 +11,11 @@
   ],
   "autoload": {
     "psr-4": {
-      "antons-route\\": "logserbin/"
+      "antons-route\\": "src/"
     }
   },
   "require": {
   }
 }
+
+
